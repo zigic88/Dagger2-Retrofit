@@ -11,7 +11,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 import javax.inject.Inject;
-import javax.inject.Named;g
+import javax.inject.Named;
 
 import retrofit2.Call;
 import retrofit2.Callback;
